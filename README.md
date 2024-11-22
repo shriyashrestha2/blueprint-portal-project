@@ -16,8 +16,7 @@ a database. The goal is to understand the architecture of host communication ove
 ## How to run:
 1. Clone the repository
 ```
-git clone https://github.com/mariammkkk/secure-login-system-BPFall24.git
-cd secure-login-system
+git clone https://github.com/shriyashrestha2/blueprint-portal-project.git
 ```
 2. Run the server\
 `python3 server.py`
